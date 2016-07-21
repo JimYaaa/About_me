@@ -3,46 +3,44 @@
 * Birthday : 12/20/1989
 * Education : 私立高苑科技大學 - 電子系（航空電子組）
 * Personal Website : https://github.com/JimYah
-* Location : 台南市
+* Location : 台南市(可到外縣市工作)
 * E-Mail : yamap52088@gmail.com
 * Mobile : 0923332817
 
 ## 工作經驗
 
-* 凱吉思（Pizza all you can eat） 2005 ~ 2015
-* 作好數位行銷（Dogooder）2016 03-01 ~ 2016 06-01
+#### 凱吉思（Pizza all you can eat）- 2005 ~ 2015
+
+* 內外場服務生
+
+#### 作好數位行銷（Dogooder）2016 03-01 ~ 2016 06-01
+
+* 網頁切版
 
 ## 技能
 
 ### HTML/CSS
 
-* 瞭解HTML語意，能夠撰寫出符合語意的HTML結構。
-* 能夠使用CSS做出網頁排版與RWD響應式設計。
-* 瞭解CSS3的Animate、transform跟transition，並應用在網頁上呈現效果。
-* 會使用SASS語法讓CSS更容易維護。
+* 瞭解 HTML 語意。
+* 能夠使用 CSS 做出網頁排版與 RWD 響應式設計。
+* 瞭解 CSS3 的 Animate、transform 跟 transition。
+* 使用 SASS 規劃 Web layout 架構。
  
-### Javascript
+### Javascript/Framework
 
-* 對原生Javascript有基礎的了解，目前較常使用Jquery做練習與開發。
+* 對原生 Javascript 有基礎的了解，目前較常使用 Jquery 做開發與練習。
+* BootStrap - 在之前的公司有用過 BootStrap 幫客戶開發網站。
+* Jquery - 會使用 Jquery 做動畫效果、ajax 抓取第三方 api 資料以及套用 plugin 在網頁上。
 
-### Framework
+### Git/GitHub
 
-* BootStrap - 在之前的公司有用過BootStrap幫客戶開發網站。
-* Jquery - 會使用Jquery做動畫效果、ajax抓取第三方api資料以及套用plugin在網頁上。
-
-### GitHub/Git
-
-* 能夠使用GitHub Pages建立一個靜態網頁。
+* 能夠使用 GitHub Pages 建立一個靜態網頁。
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
-
-### PhotoShop
-
-* 會使用PhotoShop切圖
 
 ## 作品
 
 * 個人介紹網頁 - https://jimyah.github.io/resume/
-* 串接第三方api練習 - https://jimyah.github.io/Food-serch/
+* 串接第三方api - https://jimyah.github.io/Food-serch/
 
 ## 自我介紹
 
