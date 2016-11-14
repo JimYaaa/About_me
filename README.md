@@ -43,6 +43,7 @@
 * Todo App - https://jimyah.github.io/Todo-App/
 * Vue Todo - https://jimyah.github.io/vue-todo/
 * Atom resume - https://jimyah.github.io/Atom-resume/
+* Vue Calculator - https://jimyah.github.io/Vue-Calculator/
 
 ## 自我介紹
 
