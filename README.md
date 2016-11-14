@@ -39,10 +39,10 @@
 ## 作品
 
 * 個人介紹網頁 - https://jimyah.github.io/resume/
-* 使用 Vue 串接第三方API（google map API & 高雄市政府開放平台 API) - https://jimyah.github.io/Vue-food-map/
-* Todo App - https://jimyah.github.io/Todo-App/
-* Vue Todo - https://jimyah.github.io/vue-todo/
 * Atom resume - https://jimyah.github.io/Atom-resume/
+* Todo App - https://jimyah.github.io/Todo-App/
+* 使用 Vue 串接第三方API（google map API & 高雄市政府開放平台 API) - https://jimyah.github.io/Vue-food-map/
+* Vue Todo - https://jimyah.github.io/vue-todo/
 * Vue Calculator - https://jimyah.github.io/Vue-Calculator/
 
 ## 自我介紹
